@@ -23,12 +23,6 @@ sections:
   label: Homepage
   create: all
   match: "**/*"
-- type: heading
-  label: Docs
-- type: document
-  path: README.md
-  label: README
-  read_only: true
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
